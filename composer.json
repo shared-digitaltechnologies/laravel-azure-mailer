@@ -1,7 +1,7 @@
 {
     "name": "shrd/laravel-azure-mailer",
     "version": "0.1.0",
-    "description": "Generated Composer Package",
+    "description": "Adds a mailer transport that sends emails using Azure Email Communication Services.",
     "authors": [
         {
             "name": "Roel Hemerik",

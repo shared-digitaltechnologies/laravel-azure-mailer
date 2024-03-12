@@ -1,6 +1,6 @@
 {
     "name": "shrd/laravel-azure-mailer",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Adds a mailer transport that sends emails using Azure Email Communication Services.",
     "authors": [
         {
@@ -15,7 +15,7 @@
         "php": ">= 8.2",
         "symfony/azure-mailer": "^7.0",
         "illuminate/contracts": "^10.0",
-        "shrd/laravel-azure-identity": "0.2.1"
+        "shrd/laravel-azure-identity": "0.2.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.5",
